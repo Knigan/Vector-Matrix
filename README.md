@@ -1,5 +1,5 @@
 # Vector-Matrix
-Realization of classes Vector and Matrix
+Realization of classes Vector and Matrix (C++)
 
 Задача
 
